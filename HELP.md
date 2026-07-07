@@ -1,7 +1,10 @@
 # Read Me First
+https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/715/introduction/4654/
+
 The following was discovered as part of building this project:
 
 * No Docker Compose services found. As of now, the application won't start! Please add at least one service to the `compose.yaml` file.
+
 
 # Getting Started
 
